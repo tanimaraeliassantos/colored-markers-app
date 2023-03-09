@@ -10,7 +10,7 @@ h1 {
 }
 
 .red {
-	background-color:rgb(255, 0, 0);
+	background:linear-gradient(90deg, red, blue);
 }
 .green {
 	background-color: #007F00;
