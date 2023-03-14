@@ -3,7 +3,9 @@
 
 ## Features
 
-The app was built as a practice project for a responsive web design course with FreeCodeCamp. It features three colorful markers with sleeves and caps where css code was built in order to understand different color codes, shadows and backgrounds. A beautiful divs colored static page. Simple and cute :rainbow: 
+The app was built as a practice project for a responsive web design course with FreeCodeCamp. It features three colorful markers with sleeves and caps where css code was built in order to understand different color codes, shadows and backgrounds. A beautiful colored markers static page. Simple and cute :rainbow:
+
+![colored markers app - Tanimara Elias Santos](assets/images/colored-markers-showcase.png)
 
 ## Technologies
 
